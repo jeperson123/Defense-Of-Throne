@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Conso",
-    "slug": "Conso",
-    "scheme": "Conso",    
+    "name": "DefenseOfThrone",
+    "slug": "DefenseOfThrone",
+    "scheme": "DefenseOfThrone",    
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
