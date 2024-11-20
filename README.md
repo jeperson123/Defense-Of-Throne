@@ -28,3 +28,6 @@ Defense of Throne Mobile App.
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
+
+#Walkthrough
+[Defense of Thrones walkthrough](https://youtu.be/W6xIAbzXhQw)
